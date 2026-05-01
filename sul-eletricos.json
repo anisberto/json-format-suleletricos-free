@@ -153,6 +153,28 @@
       "peso_suportado": "150KG",
       "tempo_de_recarga": "6H-10H",
       "preco": "R$ 1.000,00"
+    },
+    {
+      "modelo": "AG 10",
+      "motor": "1000W",
+      "autonomia": "DE 40 A 45 KM",
+      "velocidade_maxima": "32 KM/H",
+      "bateria": "LÍTIO 60V 24Ah",
+      "tamanho_do_pneu": "-",
+      "peso_suportado": "200 KG",
+      "tempo_de_recarga": "4H-8H",
+      "preco": "R$ 1.000,00"
+    },
+    {
+      "modelo": "OEK T20",
+      "motor": "1000W",
+      "autonomia": "ATÉ 50 KM",
+      "velocidade_maxima": "25 KM/H",
+      "bateria": "LÍTIO 60V 25Ah",
+      "tamanho_do_pneu": "225/40-10",
+      "peso_suportado": "180 KG",
+      "tempo_de_recarga": "6H-8H",
+      "preco": "R$ 1.000,00"
     }
   ]
 }
