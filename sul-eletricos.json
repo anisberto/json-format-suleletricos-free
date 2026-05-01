@@ -8,7 +8,8 @@
       "bateria": "LÍTIO 60V 24Ah",
       "tamanho_do_pneu": "-",
       "peso_suportado": "200 KG",
-      "tempo_de_recarga": "4H-8H"
+      "tempo_de_recarga": "4H-8H",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "OEK T20",
@@ -18,7 +19,8 @@
       "bateria": "LÍTIO 60V 25Ah",
       "tamanho_do_pneu": "225/40-10",
       "peso_suportado": "180 KG",
-      "tempo_de_recarga": "6H-8H"
+      "tempo_de_recarga": "6H-8H",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "OEK X13",
@@ -28,7 +30,8 @@
       "peso_suportado": "180 KG",
       "velocidade_maxima": "25 KM/H",
       "tempo_de_recarga": "6H-8H",
-      "tamanho_do_pneu": "225/40-10"
+      "tamanho_do_pneu": "225/40-10",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "Z1",
@@ -38,7 +41,8 @@
       "peso_suportado": "200 KG",
       "velocidade_maxima": "32 KM/H",
       "tempo_de_recarga": "4H-8H",
-      "tamanho_do_pneu": "-"
+      "tamanho_do_pneu": "-",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "U2 MAX",
@@ -48,7 +52,8 @@
       "peso_suportado": "200 KG",
       "velocidade_maxima": "32 KM/H",
       "tempo_de_recarga": "6H-8H",
-      "tamanho_do_pneu": "-"
+      "tamanho_do_pneu": "-",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "PANDA T2",
@@ -58,7 +63,8 @@
       "tamanho_do_pneu": "-",
       "bateria": "60V 21AH LÍTIO",
       "peso_suportado": "180 KG",
-      "tempo_de_recarga": "7H-8H"
+      "tempo_de_recarga": "7H-8H",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "UFO-JH03",
@@ -68,7 +74,8 @@
       "tamanho_do_pneu": "2.75-10",
       "bateria": "60V 24AH LÍTIO",
       "peso_suportado": "180KG",
-      "tempo_de_recarga": "6H-8H"
+      "tempo_de_recarga": "6H-8H",
+      "preco": "R$ 1.000,00"
     },
     {
       "modelo": "UFO-YYZ40",
@@ -78,7 +85,8 @@
       "tamanho_do_pneu": "275-8 / 250-10",
       "bateria": "48V 20AH LÍTIO",
       "peso_suportado": "150KG",
-      "tempo_de_recarga": "6H-10H"
+      "tempo_de_recarga": "6H-10H",
+      "preco": "R$ 1.000,00"
     }
   ],
   "contato": {
@@ -103,44 +111,48 @@
   ],
   "destaques": [
     {
-      "modelo": "AG 10",
+      "modelo": "U2 MAX",
       "motor": "1000W",
-      "autonomia": "DE 40 A 45 KM",
-      "velocidade_maxima": "32 KM/H",
-      "bateria": "LÍTIO 60V 24Ah",
-      "tamanho_do_pneu": "-",
+      "autonomia": "ATÉ 45KM",
+      "bateria": "60V 20AH LÍTIO",
       "peso_suportado": "200 KG",
-      "tempo_de_recarga": "4H-8H"
-    },
-    {
-      "modelo": "OEK T20",
-      "motor": "1000W",
-      "autonomia": "ATÉ 50 KM",
-      "velocidade_maxima": "25 KM/H",
-      "bateria": "LÍTIO 60V 25Ah",
-      "tamanho_do_pneu": "225/40-10",
-      "peso_suportado": "180 KG",
-      "tempo_de_recarga": "6H-8H"
-    },
-    {
-      "modelo": "OEK T20",
-      "motor": "1000W",
-      "autonomia": "ATÉ 50 KM",
-      "velocidade_maxima": "25 KM/H",
-      "bateria": "LÍTIO 60V 25Ah",
-      "tamanho_do_pneu": "225/40-10",
-      "peso_suportado": "180 KG",
-      "tempo_de_recarga": "6H-8H"
-    },
-    {
-      "modelo": "OEK X13",
-      "motor": "1000W",
-      "autonomia": "DE 30 À 35 KM",
-      "bateria": "LÍTIO 60V 25Ah",
-      "peso_suportado": "180 KG",
-      "velocidade_maxima": "25 KM/H",
+      "velocidade_maxima": "32 KM/H",
       "tempo_de_recarga": "6H-8H",
-      "tamanho_do_pneu": "225/40-10"
+      "tamanho_do_pneu": "-",
+      "preco": "R$ 1.000,00"
+    },
+    {
+      "modelo": "PANDA T2",
+      "motor": "1000W",
+      "autonomia": "DE 50-60KM",
+      "velocidade_maxima": "32 KM/H",
+      "tamanho_do_pneu": "-",
+      "bateria": "60V 21AH LÍTIO",
+      "peso_suportado": "180 KG",
+      "tempo_de_recarga": "7H-8H",
+      "preco": "R$ 1.000,00"
+    },
+    {
+      "modelo": "UFO-JH03",
+      "motor": "1000W",
+      "autonomia": "DE 50-65 KM",
+      "velocidade_maxima": "32 KM/H",
+      "tamanho_do_pneu": "2.75-10",
+      "bateria": "60V 24AH LÍTIO",
+      "peso_suportado": "180KG",
+      "tempo_de_recarga": "6H-8H",
+      "preco": "R$ 1.000,00"
+    },
+    {
+      "modelo": "UFO-YYZ40",
+      "motor": "600W",
+      "autonomia": "DE ATÉ 50 KM",
+      "velocidade_maxima": "32 KM/H",
+      "tamanho_do_pneu": "275-8 / 250-10",
+      "bateria": "48V 20AH LÍTIO",
+      "peso_suportado": "150KG",
+      "tempo_de_recarga": "6H-10H",
+      "preco": "R$ 1.000,00"
     }
   ]
 }
