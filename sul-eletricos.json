@@ -5,6 +5,12 @@
       "nome": "Geladeira",
       "imagem": "https://www.sueleletrica.com.br/wp-content/uploads/2019/03/Geladeira-Suele-Eletrica-1.jpg",
       "preco": 1200.00
+    },
+    {
+      "id": 1,
+      "nome": "Geladeira",
+      "imagem": "https://www.sueleletrica.com.br/wp-content/uploads/2019/03/Geladeira-Suele-Eletrica-1.jpg",
+      "preco": 1200.00
     }
   ],
   "contato": {
