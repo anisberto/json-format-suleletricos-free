@@ -21,5 +21,22 @@
     "telefone": "(11) 99999-9999",
     "WhatsApp": "(11) 99999-9999",
     "endereco": "Rua Francisco Orlando Attisano, Setor 02, Cornélio Procópio/PR"
-  }
+  },
+  "duvidas": [
+    {
+      "Moto elétrica precisa de CNH e emplacamento?": "Depende do modelo e da categoria do veículo. Modelos mais potentes podem exigir habilitação e emplacamento. Consulte sempre a regulamentação vigente da sua cidade e do modelo escolhido."
+    },
+    {
+      "Qual a autonomia da bateria?": "A autonomia varia conforme bateria, peso do condutor, relevo e modo de condução. No atendimento, a Sul Elétricos orienta conforme seu perfil de uso."
+    },
+    {
+      "Posso usar a moto elétrica em dias de chuva?": "Muitos modelos possuem resistência à água, mas não recomendamos pilotar em chuvas fortes por segurança. A indicação correta depende do modelo escolhido."
+    },
+    {
+      "Quanto custa para rodar com uma moto elétrica?": "O custo operacional costuma ser bem menor do que em veículos a combustão, especialmente no uso urbano diário."
+    },
+    {
+      "A manutenção é mais simples?": "Sim. Como há menos componentes mecânicos sujeitos a desgaste, a manutenção tende a ser mais simples e econômica, desde que o modelo receba revisões periódicas."
+    }
+  ]
 }
