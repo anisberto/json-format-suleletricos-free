@@ -9,7 +9,8 @@
       "tamanho_do_pneu": "-",
       "peso_suportado": "200 KG",
       "tempo_de_recarga": "4H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "OEK T20",
@@ -20,7 +21,8 @@
       "tamanho_do_pneu": "225/40-10",
       "peso_suportado": "180 KG",
       "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "OEK X13",
@@ -31,7 +33,8 @@
       "velocidade_maxima": "25 KM/H",
       "tempo_de_recarga": "6H-8H",
       "tamanho_do_pneu": "225/40-10",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "Z1",
@@ -42,7 +45,8 @@
       "velocidade_maxima": "32 KM/H",
       "tempo_de_recarga": "4H-8H",
       "tamanho_do_pneu": "-",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "U2 MAX",
@@ -53,7 +57,8 @@
       "velocidade_maxima": "32 KM/H",
       "tempo_de_recarga": "6H-8H",
       "tamanho_do_pneu": "-",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "PANDA T2",
@@ -64,7 +69,8 @@
       "bateria": "60V 21AH LÍTIO",
       "peso_suportado": "180 KG",
       "tempo_de_recarga": "7H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "UFO-JH03",
@@ -75,7 +81,8 @@
       "bateria": "60V 24AH LÍTIO",
       "peso_suportado": "180KG",
       "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "UFO-YYZ40",
@@ -86,7 +93,8 @@
       "bateria": "48V 20AH LÍTIO",
       "peso_suportado": "150KG",
       "tempo_de_recarga": "6H-10H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     }
   ],
   "contato": {
@@ -119,7 +127,8 @@
       "velocidade_maxima": "32 KM/H",
       "tempo_de_recarga": "6H-8H",
       "tamanho_do_pneu": "-",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "PANDA T2",
@@ -130,7 +139,8 @@
       "bateria": "60V 21AH LÍTIO",
       "peso_suportado": "180 KG",
       "tempo_de_recarga": "7H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "UFO-JH03",
@@ -141,7 +151,8 @@
       "bateria": "60V 24AH LÍTIO",
       "peso_suportado": "180KG",
       "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "UFO-YYZ40",
@@ -152,7 +163,8 @@
       "bateria": "48V 20AH LÍTIO",
       "peso_suportado": "150KG",
       "tempo_de_recarga": "6H-10H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "AG 10",
@@ -163,7 +175,8 @@
       "tamanho_do_pneu": "-",
       "peso_suportado": "200 KG",
       "tempo_de_recarga": "4H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     },
     {
       "modelo": "OEK T20",
@@ -174,7 +187,8 @@
       "tamanho_do_pneu": "225/40-10",
       "peso_suportado": "180 KG",
       "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00"
+      "preco": "R$ 1.000,00",
+      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
     }
   ]
 }
