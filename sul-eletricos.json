@@ -60,16 +60,13 @@
   },
   "duvidas": [
     {
-      "pergunta": "Moto elétrica precisa de CNH e emplacamento?",
-      "resposta": "Depende do modelo e da categoria do veículo. Modelos mais potentes podem exigir habilitação e emplacamento. Consulte sempre a regulamentação vigente da sua cidade e do modelo escolhido."
+      "Moto elétrica precisa de CNH e emplacamento?": "Depende do modelo e da categoria do veículo. Modelos mais potentes podem exigir habilitação e emplacamento. Consulte sempre a regulamentação vigente da sua cidade e do modelo escolhido."
     },
     {
-      "pergunta": "Qual a autonomia da bateria?",
-      "resposta": "A autonomia varia conforme bateria, peso do condutor, relevo e modo de condução. No atendimento, a Sul Elétricos orienta conforme seu perfil de uso."
+      "Qual a autonomia da bateria?": "A autonomia varia conforme bateria, peso do condutor, relevo e modo de condução. No atendimento, a Sul Elétricos orienta conforme seu perfil de uso."
     },
     {
-      "pergunta": "Posso usar a moto elétrica em dias de chuva?",
-      "resposta": "Muitos modelos possuem resistência à água, mas não recomendamos pilotar em chuvas fortes por segurança. A indicação correta depende do modelo escolhido."
+      "Posso usar a moto elétrica em dias de chuva?": "Muitos modelos possuem resistência à água, mas não recomendamos pilotar em chuvas fortes por segurança. A indicação correta depende do modelo escolhido."
     }
   ],
   "destaques": [
