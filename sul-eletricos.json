@@ -1,171 +1,78 @@
 {
   "produtos": [
     {
-      "modelo": "AG 10",
+      "modelo": "RAPID RR",
       "motor": "1000W",
-      "autonomia": "DE 40 A 45 KM",
+      "autonomia": "DE 60 A 75 KM",
       "velocidade_maxima": "32 KM/H",
-      "bateria": "LÍTIO 60V 24Ah",
+      "bateria": "LÍTIO 60V removível",
       "tamanho_do_pneu": "-",
       "peso_suportado": "200 KG",
+      "tempo_de_recarga": "5H-7H",
+      "preco": "CONSULTAR",
+      "imagem": "https://photos.google.com/share/AF1QipNLGjECPmS0GspdvbaAT0xdMTw8rmXjOFiFrvrMkd07wCssjYKhAfX5OOljIsaHgg/photo/AF1QipOTV7Xf4_9t8ijJ_QdiX620GF4d8YTErd_jnQjB?key=aWRqVl9zV3l0WkJtVVV2b0dDNGJ1cXdHaERSS093"
+    },
+    {
+      "modelo": "JUKOO FS",
+      "motor": "3500W",
+      "autonomia": "DE 60 A 75 KM",
+      "velocidade_maxima": "90 KM/H",
+      "bateria": "LÍTIO",
+      "tamanho_do_pneu": "-",
+      "peso_suportado": "180 KG",
+      "tempo_de_recarga": "5H-7H",
+      "preco": "CONSULTAR",
+      "imagem": "https://photos.google.com/share/AF1QipNLGjECPmS0GspdvbaAT0xdMTw8rmXjOFiFrvrMkd07wCssjYKhAfX5OOljIsaHgg/photo/AF1QipMrS0cf0jxZ5WvFmVRrUyyKQgReKGrXD8KMnB1F?key=aWRqVl9zV3l0WkJtVVV2b0dDNGJ1cXdHaERSS093"
+    },
+    {
+      "modelo": "SCOOTER XE4",
+      "motor": "1000W",
+      "autonomia": "DE 50 A 65 KM",
+      "velocidade_maxima": "32 KM/H",
+      "bateria": "Lítio 72V 20Ah removível",
+      "tamanho_do_pneu": "-",
+      "peso_suportado": "180 KG",
       "tempo_de_recarga": "4H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
+      "preco": "CONSULTAR",
+      "imagem": "https://lh3.googleusercontent.com/pw/AP1GczPBPcYNT8g26RHjzbEWNOq5kmhzrt3fUisE079skJeDhGCK43xGgi4DcDBDjY3WtRAM1ooj0ScN7kOI3s_3aI1glVrqS18Vfht5mIZcoe1noknRhS4AugInzEfJ2RSTOiJEmWNaor6bFy0MGEQxMf8=w1024-h1536-s-no-gm?authuser=0"
     },
     {
-      "modelo": "OEK T20",
+      "modelo": "SANGIE G12",
       "motor": "1000W",
-      "autonomia": "ATÉ 50 KM",
-      "velocidade_maxima": "25 KM/H",
-      "bateria": "LÍTIO 60V 25Ah",
-      "tamanho_do_pneu": "225/40-10",
-      "peso_suportado": "180 KG",
-      "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "OEK X13",
-      "motor": "1000W",
-      "autonomia": "DE 30 À 35 KM",
-      "bateria": "LÍTIO 60V 25Ah",
-      "peso_suportado": "180 KG",
-      "velocidade_maxima": "25 KM/H",
-      "tempo_de_recarga": "6H-8H",
-      "tamanho_do_pneu": "225/40-10",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "Z1",
-      "motor": "800W",
-      "autonomia": "ATÉ 60KM",
-      "bateria": "48V 20AH",
-      "peso_suportado": "200 KG",
+      "autonomia": "DE 60 A 75 KM",
       "velocidade_maxima": "32 KM/H",
+      "bateria": "Lítio 60V removível",
+      "tamanho_do_pneu": "-",
+      "peso_suportado": "170 KG",
       "tempo_de_recarga": "4H-8H",
-      "tamanho_do_pneu": "-",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "U2 MAX",
-      "motor": "1000W",
-      "autonomia": "ATÉ 45KM",
-      "bateria": "60V 20AH LÍTIO",
-      "peso_suportado": "200 KG",
-      "velocidade_maxima": "32 KM/H",
-      "tempo_de_recarga": "6H-8H",
-      "tamanho_do_pneu": "-",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "PANDA T2",
-      "motor": "1000W",
-      "autonomia": "DE 50-60KM",
-      "velocidade_maxima": "32 KM/H",
-      "tamanho_do_pneu": "-",
-      "bateria": "60V 21AH LÍTIO",
-      "peso_suportado": "180 KG",
-      "tempo_de_recarga": "7H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "UFO-JH03",
-      "motor": "1000W",
-      "autonomia": "DE 50-65 KM",
-      "velocidade_maxima": "32 KM/H",
-      "tamanho_do_pneu": "2.75-10",
-      "bateria": "60V 24AH LÍTIO",
-      "peso_suportado": "180KG",
-      "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "UFO-YYZ40",
-      "motor": "600W",
-      "autonomia": "DE ATÉ 50 KM",
-      "velocidade_maxima": "32 KM/H",
-      "tamanho_do_pneu": "275-8 / 250-10",
-      "bateria": "48V 20AH LÍTIO",
-      "peso_suportado": "150KG",
-      "tempo_de_recarga": "6H-10H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
+      "preco": "CONSULTAR",
+      "imagem": "https://photos.google.com/share/AF1QipNLGjECPmS0GspdvbaAT0xdMTw8rmXjOFiFrvrMkd07wCssjYKhAfX5OOljIsaHgg/photo/AF1QipOsQLOpi_JmwE93LEHqeERym8ltzcLjaNqh-mjz?key=aWRqVl9zV3l0WkJtVVV2b0dDNGJ1cXdHaERSS093"
     }
   ],
   "contato": {
     "ativo": true,
     "titulo": "Entre em contato",
-    "Subtitulo": "Solicite atendimento, tire dúvidas e peça mais informações sobre os modelos disponíveis.",
+    "subtitulo": "Solicite atendimento, tire dúvidas e peça mais informações sobre os modelos disponíveis.",
     "email": "lauro.santana@gmail.com",
     "telefone": "(11) 99999-9999",
-    "WhatsApp": "(11) 99999-9999",
+    "whatsapp": "(11) 99999-9999",
     "endereco": "Porto Alegre, RS"
   },
   "duvidas": [
     {
-      "Moto elétrica precisa de CNH e emplacamento?": "Depende do modelo e da categoria do veículo. Modelos mais potentes podem exigir habilitação e emplacamento. Consulte sempre a regulamentação vigente da sua cidade e do modelo escolhido."
+      "pergunta": "Moto elétrica precisa de CNH e emplacamento?",
+      "resposta": "Depende do modelo e da categoria do veículo. Modelos mais potentes podem exigir habilitação e emplacamento. Consulte sempre a regulamentação vigente da sua cidade e do modelo escolhido."
     },
     {
-      "Qual a autonomia da bateria?": "A autonomia varia conforme bateria, peso do condutor, relevo e modo de condução. No atendimento, a Sul Elétricos orienta conforme seu perfil de uso."
+      "pergunta": "Qual a autonomia da bateria?",
+      "resposta": "A autonomia varia conforme bateria, peso do condutor, relevo e modo de condução. No atendimento, a Sul Elétricos orienta conforme seu perfil de uso."
     },
     {
-      "Posso usar a moto elétrica em dias de chuva?": "Muitos modelos possuem resistência à água, mas não recomendamos pilotar em chuvas fortes por segurança. A indicação correta depende do modelo escolhido."
+      "pergunta": "Posso usar a moto elétrica em dias de chuva?",
+      "resposta": "Muitos modelos possuem resistência à água, mas não recomendamos pilotar em chuvas fortes por segurança. A indicação correta depende do modelo escolhido."
     }
   ],
   "destaques": [
-    {
-      "modelo": "U2 MAX",
-      "motor": "1000W",
-      "autonomia": "ATÉ 45KM",
-      "bateria": "60V 20AH LÍTIO",
-      "peso_suportado": "200 KG",
-      "velocidade_maxima": "32 KM/H",
-      "tempo_de_recarga": "6H-8H",
-      "tamanho_do_pneu": "-",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "PANDA T2",
-      "motor": "1000W",
-      "autonomia": "DE 50-60KM",
-      "velocidade_maxima": "32 KM/H",
-      "tamanho_do_pneu": "-",
-      "bateria": "60V 21AH LÍTIO",
-      "peso_suportado": "180 KG",
-      "tempo_de_recarga": "7H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "UFO-JH03",
-      "motor": "1000W",
-      "autonomia": "DE 50-65 KM",
-      "velocidade_maxima": "32 KM/H",
-      "tamanho_do_pneu": "2.75-10",
-      "bateria": "60V 24AH LÍTIO",
-      "peso_suportado": "180KG",
-      "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
-    {
-      "modelo": "UFO-YYZ40",
-      "motor": "600W",
-      "autonomia": "DE ATÉ 50 KM",
-      "velocidade_maxima": "32 KM/H",
-      "tamanho_do_pneu": "275-8 / 250-10",
-      "bateria": "48V 20AH LÍTIO",
-      "peso_suportado": "150KG",
-      "tempo_de_recarga": "6H-10H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
-    },
     {
       "modelo": "AG 10",
       "motor": "1000W",
@@ -175,8 +82,8 @@
       "tamanho_do_pneu": "-",
       "peso_suportado": "200 KG",
       "tempo_de_recarga": "4H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
+      "preco": "R$ 10.900,00",
+      "imagem": "https://photos.google.com/share/AF1QipNLGjECPmS0GspdvbaAT0xdMTw8rmXjOFiFrvrMkd07wCssjYKhAfX5OOljIsaHgg/photo/AF1QipMcXpfWPBWTND60SHpAaPrgjqBHsKgAHQrLKh-4?key=aWRqVl9zV3l0WkJtVVV2b0dDNGJ1cXdHaERSS093"
     },
     {
       "modelo": "OEK T20",
@@ -187,8 +94,8 @@
       "tamanho_do_pneu": "225/40-10",
       "peso_suportado": "180 KG",
       "tempo_de_recarga": "6H-8H",
-      "preco": "R$ 1.000,00",
-      "imagem": "https://aguiarmotos.com.br/public/uploads/motorcycles/ad14ca55b44c3a372b485283d07e8b17.png"
+      "preco": "R$ 9.900,00",
+      "imagem": "https://photos.google.com/share/AF1QipNLGjECPmS0GspdvbaAT0xdMTw8rmXjOFiFrvrMkd07wCssjYKhAfX5OOljIsaHgg/photo/AF1QipPqZsyacpLz4pFLLr7TZ7cG9TzQendehHnEbNL4?key=aWRqVl9zV3l0WkJtVVV2b0dDNGJ1cXdHaERSS093"
     }
   ]
 }
