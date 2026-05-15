@@ -1,7 +1,7 @@
 {
   "banners": [
     {
-      "titulo": "banner Teste Json",
+      "titulo": "banner Teste Json - Titulo Teste",
       "descricao": "Este objeto json é somente para teste",
       "imagem": "https://github.com.br/lauro.png"
     }
