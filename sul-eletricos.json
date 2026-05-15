@@ -1,4 +1,8 @@
 {
+  "infra": {
+    "metadados": "titulo Teste vendas online",
+    "titulo": "Vendas online"
+  },
   "banners": [
     {
       "titulo": "banner Teste Json - Titulo Teste",
