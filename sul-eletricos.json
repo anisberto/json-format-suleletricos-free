@@ -1,4 +1,11 @@
 {
+  "banners":[
+    {
+      "titulo": "banner Teste Json",
+      "descricao": "Este objeto json é somente para teste",
+      "imagem": "https://github.com.br/lauro.png"
+    }
+  ],
   "produtos": [
     {
       "modelo": "RAPID RR",
