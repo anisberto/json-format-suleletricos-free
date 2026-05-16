@@ -12,18 +12,6 @@
   ],
   "produtos": [
     {
-      "modelo": "RAPID RR",
-      "motor": "1000W",
-      "autonomia": "DE 60 A 75 KM",
-      "velocidade_maxima": "32 KM/H",
-      "bateria": "LÍTIO 60V removível",
-      "tamanho_do_pneu": "-",
-      "peso_suportado": "200 KG",
-      "tempo_de_recarga": "5H-7H",
-      "preco": "CONSULTAR",
-      "imagem": "https://lh3.googleusercontent.com/pw/AP1GczMUeErndzNi8uvzeEJzwJVp_QYlJmWKztOW0uGvAvoHbfPK2vVuAuXkaEBexw14GBU-aHJbVXcXaDlgEmryeh3QLMt4AYagBSCp1ffWXvpSpC1x2V73AbzK9lu9F-CkCB6MtwcbRsxyw0csqhyLylE=w1024-h1536-s-no-gm?authuser=0"
-    },
-    {
       "modelo": "JUKOO FS",
       "motor": "3500W",
       "autonomia": "DE 60 A 75 KM",
